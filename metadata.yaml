@@ -1,0 +1,37 @@
+_repo: A-Holiday-in-Bed-and-Other-Sketches_39543
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barrie, J. M. (James Matthew)
+    aliases:
+    - Barrie, James Matthew
+    - Barrie, J.M.
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+description: ''
+gutenberg_issued: '2012-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39543'
+  lccn: '13024214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+tableOfContents: 'James Matthew Barrie -- A holiday in bed -- Life in a country manse
+  -- Life in a country manse: a wedding in a smiddy -- A powerful drug -- Every man
+  his own doctor -- Gretna Green revisted -- My favorite authoress -- The captain
+  of the school -- Thoughtful boys make thoughtful men -- It -- To the influenza --
+  Four-in-hand novelists -- Rules on carving -- On running after a hat.'
+title: A Holiday in Bed, and Other Sketches
+url: http://www.gutenberg.org/ebooks/39543
